@@ -1,2 +1,16 @@
-# Comprehensive-Sales-Analysis-of-Blinkit-Using-Power-BI
-This project focuses on an in-depth analysis of Blinkit's sales data to explore performance metrics, customer satisfaction, and inventory management using Power BI. By examining various KPIs, the analysis seeks to uncover actionable insights and highlight opportunities for business improvement.
+# BlinkiIt Analaysis 
+
+## STPES IN PROJECTS 
+
+- Identify Business Requirements and Gather Data Needs
+- Review and Explore Data
+- Connect to Data Sources
+- Clean and Validate Data for Accuracy
+- Build Data Models
+- Process and Manipulate Data
+- Apply DAX Formulas for Data Analysis
+- Plan and Structure the Dashboard Layout
+- Create and Format Visual Elements
+- Develop Dashboards and Reports
+- Extract and Present Insights
+
