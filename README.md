@@ -30,10 +30,12 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
 
 
 ## Charts Needed:
-**1.	Impact of Fat Content on Total Sales:**
+**1. Impact of Fat Content on Total Sales:**
    - **Goal:** To assess how different levels of fat content influence total sales.
-	- **Additional KPIs to Consider:** Look into how metrics like Average Sales, Number of Items, and Average Ratings vary with fat content.
-	- **Recommended Chart Type: Donut Chart.**
+     
+   - **Additional KPIs to Consider:** Look into how metrics like Average Sales, Number of Items, and Average Ratings vary with fat content.
+     
+   - **Recommended Chart Type: Donut Chart.**
 
      
 2.	Sales Analysis by Item Type:
