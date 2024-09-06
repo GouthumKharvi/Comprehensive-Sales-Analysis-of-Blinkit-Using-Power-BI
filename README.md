@@ -37,6 +37,8 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
      
    - **Recommended Chart Type: Donut Chart.**
 
+
+
      
 **2. Sales Analysis by Item Type:**
    - **Goal:** To evaluate the sales performance of various item types.
@@ -46,6 +48,8 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
    - **Recommended Chart Type:**  Bar Chart.
 
 
+
+
 **3. Outlet Comparison of Fat Content in Relation to Total Sales:**
    - **Goal:** To compare total sales across different outlets categorized by fat content.
  
@@ -53,11 +57,15 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
     
    - **Recommended Chart Type:** Stacked Column Chart.
 
+
+
      
 **4. Total Sales by Outlet Characteristics:**
    - **Goal:** To explore how the establishment’s type or age affects total sales.
  
    - **Recommended Chart Type:** Line Chart.
+
+
 
      
 **5. Total Sales Based on Outlet Size:**
@@ -65,11 +73,15 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
     
    - **Recommended Chart Type:** Donut or Pie Chart.
 
+
+
  
 **6. Sales Distribution by Location:**
    - **Goal:** Evaluate how sales are geographically distributed across various locations.
     
    - **Recommended Chart Type:** Funnel Map.
+
+
 
  
 **7. Comprehensive Metrics Overview by Outlet Type:**
