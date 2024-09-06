@@ -38,7 +38,7 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
    - **Recommended Chart Type: Donut Chart.**
 
      
-**2.	Sales Analysis by Item Type:**
+**2. Sales Analysis by Item Type:**
    - **Goal:** To evaluate the sales performance of various item types.
    
    - **Additional KPIs to Consider:** Examine other metrics such as Average Sales, Number of Items Sold, and Average Ratings across different item types.
@@ -46,31 +46,34 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
    - **Recommended Chart Type:**  Bar Chart.
 
 
-**3.	Outlet Comparison of Fat Content in Relation to Total Sales:**
-	- **Goal:** To compare total sales across different outlets categorized by fat content.
+**3. Outlet Comparison of Fat Content in Relation to Total Sales:**
+   - **Goal:** To compare total sales across different outlets categorized by fat content.
  
    - **Additional KPIs to Consider:** Investigate how Average Sales, Number of Items, and Average Ratings change with fat content across outlets.
     
    - **Recommended Chart Type:** Stacked Column Chart.
 
      
-**4.	Total Sales by Outlet Characteristics:**
-	- **Goal:** To explore how the establishment’s type or age affects total sales.
+**4. Total Sales by Outlet Characteristics:**
+   - **Goal:** To explore how the establishment’s type or age affects total sales.
  
    - **Recommended Chart Type:** Line Chart.
 
      
-**5.	 Total Sales Based on Outlet Size:**
-	- **Goal:** Investigate the relationship between the size of the outlet and the total sales figures.
-	- **Recommended Chart Type:** Donut or Pie Chart.
+**5. Total Sales Based on Outlet Size:**
+   - **Goal:** Investigate the relationship between the size of the outlet and the total sales figures.
+    
+   - **Recommended Chart Type:** Donut or Pie Chart.
 
  
-**6.	 Sales Distribution by Location:**
-	- **Goal:** Evaluate how sales are geographically distributed across various locations.
-	- **Recommended Chart Type:** Funnel Map.
+**6. Sales Distribution by Location:**
+   - **Goal:** Evaluate how sales are geographically distributed across various locations.
+    
+   - **Recommended Chart Type:** Funnel Map.
 
  
-**7.	 Comprehensive Metrics Overview by Outlet Type:**
-	- **Goal:** Display a detailed breakdown of all key metrics (including Total Sales, Average Sales, Number of Items Sold, and Average Ratings) segmented by different outlet types.
-	- **Recommended Chart Type:** Matrix Card.
+**7. Comprehensive Metrics Overview by Outlet Type:**
+   - **Goal:** Display a detailed breakdown of all key metrics (including Total Sales, Average Sales, Number of Items Sold, and Average Ratings) segmented by different outlet types.
+    
+   - **Recommended Chart Type:** Matrix Card.
 
