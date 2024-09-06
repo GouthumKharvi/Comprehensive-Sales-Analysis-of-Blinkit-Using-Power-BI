@@ -1,5 +1,7 @@
 # BlinkiIt Analaysis 
 
+### This project is aimed at performing a comprehensive sales analysis of Blinkit, focusing on identifying key insights and opportunities for optimization in sales performance, customer satisfaction, and inventory management. By leveraging Power BI, the project utilizes various KPIs and visualizations to provide a clear understanding of the business dynamics.
+
 ## STPES IN PROJECTS 
 
 - Identify Business Requirements and Gather Data Needs
