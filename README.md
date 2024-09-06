@@ -20,9 +20,9 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
 
 ### KPI Objectives:
 
-1.	Total Sales: Assess the total revenue generated from all products sold.
-2.	Average Sales: Compute the average income per sale.
-3.	Number of Items: Track the total number of distinct products sold.
-4.	Average Rating: Evaluate the overall customer feedback rating for the products sold.
+1.	**Total Sales:** Assess the total revenue generated from all products sold.
+2.	**Average Sales:** Compute the average income per sale.
+3.	**Number of Items:** Track the total number of distinct products sold.
+4.	**Average Rating:** Evaluate the overall customer feedback rating for the products sold.
    
-/*These KPIs are essential for evaluating the business performance and identifying potential enhancements.*/
+**These KPIs are essential for evaluating the business performance and identifying potential enhancements.**
