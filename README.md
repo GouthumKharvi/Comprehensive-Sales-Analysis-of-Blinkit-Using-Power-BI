@@ -70,6 +70,7 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
     
    - **Recommended Chart Type:** Stacked Column Chart.
 
+      ![Screenshot 2024-09-07 035814](https://github.com/user-attachments/assets/f569ebd2-41d6-488a-af5d-e832f2c9335b)
 
 
      
@@ -78,6 +79,7 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
  
    - **Recommended Chart Type:** Line Chart.
 
+      ![Screenshot 2024-09-07 035814](https://github.com/user-attachments/assets/21e60129-0ff2-4668-94b3-e954af6f7aab)
 
 
      
@@ -87,6 +89,7 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
    - **Recommended Chart Type:** Donut or Pie Chart.
 
 
+      ![Screenshot 2024-09-07 040316](https://github.com/user-attachments/assets/ead30267-ecfe-43a2-b7e6-97f75cedc9f8)
 
  
 **6. Sales Distribution by Location:**
@@ -94,14 +97,17 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
     
    - **Recommended Chart Type:** Funnel Map.
 
+      ![Screenshot 2024-09-07 040346](https://github.com/user-attachments/assets/3aa66454-329d-40c9-afda-8c62448300c8)
 
-
+      
  
 **7. Comprehensive Metrics Overview by Outlet Type:**
    - **Goal:** Display a detailed breakdown of all key metrics (including Total Sales, Average Sales, Number of Items Sold, and Average Ratings) segmented by different outlet types.
     
    - **Recommended Chart Type:** Matrix Card.
 
+
+![Screenshot 2024-09-07 040800](https://github.com/user-attachments/assets/7ab0094b-e342-4f20-998e-b53f3d9168b4)
 
 
 
