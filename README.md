@@ -154,6 +154,8 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
      - **Number of Items Sold**: `Number of Items = COUNT(Sales[Item_ID])`
        
      - **Average Rating**: `Average Rating = AVERAGE(Reviews[Rating])`
+    
+     
 
 7. **Plan and Structure the Dashboard Layout**
    - Start by sketching out a wireframe of your dashboard. Think about where each chart will go and how users will interact with it.
