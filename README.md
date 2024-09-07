@@ -252,6 +252,76 @@ Total Sales = SUM(Sales[Amount])
 - **Use case:** You can use this measure to show overall sales figures in a card visual or aggregate sales in charts.
 
 
+#### 2. **Average Sales:**
+
+```DAX
+Average Sales = AVERAGE(Sales[Amount])
+```
+
+- **What it does:**  This calculates the average value in the Amount column from the Sales table.
+- **Purpose:** To find the average sale value across all transactions.
+- **Use case:** It’s useful for understanding how much revenue, on average, each transaction brings in. You can display this value in reports to assess overall                    sales performance.
+
+  
+#### 3. Number of Items Sold:
+
+```DAX
+Number of Items = COUNT(Sales[Item_ID])
+```
+
+- **What it does:** This formula counts the number of non-blank entries in the Item_ID column of the Sales table.
+- **Purpose:** To count the total number of items sold (each represented by an Item_ID).
+- **Use case:** You can use this measure to show how many distinct products or transactions took place during the analysis period.
+
+#### 4. Average Rating:
+
+```DAX
+Average Rating = AVERAGE(Reviews[Rating])
+```
+
+- **What it does:** This calculates the average of the Rating values from the Reviews table.
+- **Purpose:** To compute the average customer rating for the products or services.
+- **Use case:** Useful for assessing overall customer satisfaction. You can display it in a dashboard to provide insights into the quality of customer feedback.
+
+
+
+## Creating DAX Expressions:
+**To create these DAX formulas in Power BI:**
+
+- **Open Power BI.**
+- **Navigate to the “Modeling” tab in the ribbon.**
+- **Choose “New Measure” or “New Column”, depending on whether you are creating a calculated measure or column.**
+- **In the formula bar, enter the DAX expression (e.g., Total Sales = SUM(Sales[Amount])).**
+- **Once created, you can use these measures in visualizations like cards, charts, or tables.**
+
+  
+**These DAX expressions help summarize and analyze your data dynamically in Power BI, allowing you to gain key insights from your data model.**
+
+
+# Creating Metrics in Power BI
+
+## Title: How to Create Metrics in Power BI
+
+### What are Metrics?
+
+In Power BI, **metrics** are key performance indicators (KPIs) that help track and evaluate the success of specific business activities. They allow users to monitor data trends and make informed business decisions. Metrics can be defined using **measures** or **calculated columns** created with **DAX** formulas.
+
+The following example creates a set of important metrics for analyzing BlinkIT’s Grocery Data, including Total Sales, Average Sales, Number of Items Sold, and Average Rating.
+
+---
+
+### Example Metrics in Power BI:
+
+```DAX
+Metrics = {
+    ("Total Sales", NAMEOF('BlinkIT Grocery Data'[Total Sales]), 0),
+    ("Avg Sales", NAMEOF('BlinkIT Grocery Data'[Avg Sales]), 1),
+    ("No of Items", NAMEOF('BlinkIT Grocery Data'[No of Items]), 2),
+    ("Avg Rating", NAMEOF('BlinkIT Grocery Data'[Avg Rating]), 3)
+}
+
+
+
 
 10. **Extract and Present Insights**
     - Finalize the dashboard by adjusting formatting, titles, and color schemes.
