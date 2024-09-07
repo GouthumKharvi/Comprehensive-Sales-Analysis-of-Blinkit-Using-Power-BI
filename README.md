@@ -175,30 +175,56 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
      - Add **Fat Content** to the legend, and **Total Sales** to values.
        
      - Apply KPIs like Average Sales and Ratings if relevant.
+    
+      ![Screenshot 2024-09-07 034951](https://github.com/user-attachments/assets/71d707d4-99d0-4a9c-91fc-fcf80a9ca412)
    
    - **Sales Analysis by Item Type**:
      - Insert a **Bar Chart**.
        
      - Add **Item Type** to the axis and **Total Sales** to values. Add **Average Sales** as a secondary metric if needed.
+
+
+     ![Screenshot 2024-09-07 035631](https://github.com/user-attachments/assets/4cd41dca-3520-4abc-94b4-c910dee0fb76)
+
+     
    
    - **Outlet Comparison of Fat Content in Relation to Total Sales**:
      - Use a **Stacked Column Chart**.
+    
+
+     ![Screenshot 2024-09-07 035814](https://github.com/user-attachments/assets/f569ebd2-41d6-488a-af5d-e832f2c9335b)
+  
+     
        
      - Place **Outlets** on the x-axis and **Fat Content** on the legend. Add **Total Sales** as the main value.
    
    - **Total Sales by Outlet Characteristics**:
      - Use a **Line Chart** to map sales based on outlet types or outlet age.
-   
+
+      ![Screenshot 2024-09-07 040247](https://github.com/user-attachments/assets/8f6ea65b-026b-447d-8df2-3098ebc33c5b)
+
+
    - **Total Sales Based on Outlet Size**:
      - Add a **Donut or Pie Chart** to visualize the relationship between outlet size and sales.
+    
+       
+      ![Screenshot 2024-09-07 040316](https://github.com/user-attachments/assets/ead30267-ecfe-43a2-b7e6-97f75cedc9f8)
+     
    
    - **Sales Distribution by Location**:
      - Use a **Funnel Map** to display sales geographically. Assign locations to the map and **Total Sales** as values.
+  
+       
+     ![Screenshot 2024-09-07 040346](https://github.com/user-attachments/assets/3aa66454-329d-40c9-afda-8c62448300c8)
+     
    
    - **Comprehensive Metrics Overview by Outlet Type**:
      - Use a **Matrix Visual** to show detailed metrics like **Total Sales**, **Average Sales**, **Number of Items Sold**, and **Average Ratings**, all broken down by **Outlet Type**.
+      
+     ![Screenshot 2024-09-07 040800](https://github.com/user-attachments/assets/7ab0094b-e342-4f20-998e-b53f3d9168b4)
 
-10. **Apply DAX Formulas for Data Analysis**
+
+9. **Apply DAX Formulas for Data Analysis**
     - After creating visuals, apply DAX formulas to make your analysis dynamic. For example, add slicers for outlet type or date range, which will adjust the data displayed across all charts.
       
     - Example DAX for filtering by date:
@@ -207,14 +233,14 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
       Sales Last Year = CALCULATE([Total Sales], SAMEPERIODLASTYEAR(Sales[Date]))
       ```
 
-11. **Extract and Present Insights**
+10. **Extract and Present Insights**
     - Finalize the dashboard by adjusting formatting, titles, and color schemes.
       
     - Add tooltips to visual elements to provide extra information when users hover over charts.
       
     - Use bookmarks or storytelling features in Power BI to create a guided view of the analysis.
 
-12. **Publish and Share**
+11. **Publish and Share**
     - Once the dashboard is complete, publish it to Power BI Service and share it with stakeholders. Set up refresh schedules if your data source is updated regularly.
 
 ### Conclusion:
