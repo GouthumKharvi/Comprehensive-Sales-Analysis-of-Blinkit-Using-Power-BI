@@ -245,6 +245,13 @@ DAX is used to:
 ```DAX
 Total Sales = SUM(Sales[Amount])
 ```
+- **What it does:** This formula sums the values in the Amount column from the Sales table.
+  
+- **Purpose:** To calculate the total sales for all items sold, based on the individual amounts of each sale.
+
+- **Use case:** You can use this measure to show overall sales figures in a card visual or aggregate sales in charts.
+
+
 
 10. **Extract and Present Insights**
     - Finalize the dashboard by adjusting formatting, titles, and color schemes.
