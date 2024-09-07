@@ -330,10 +330,9 @@ Metrics = {
       
     - Use bookmarks or storytelling features in Power BI to create a guided view of the analysis.
 
-11. **Publish and Share**
-    - Once the dashboard is complete, publish it to Power BI Service and share it with stakeholders. Set up refresh schedules if your data source is updated regularly.
 
-### Conclusion:
+
+# Conclusion:
 Following these steps ensures a well-organized and insightful sales analysis for Blinkit, with interactive dashboards that make data-driven decision-making easier.
 
 
