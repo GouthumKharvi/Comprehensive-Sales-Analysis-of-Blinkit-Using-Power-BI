@@ -227,13 +227,23 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
 
 
 9. **Apply DAX Formulas for Data Analysis**
-    - After creating visuals, apply DAX formulas to make your analysis dynamic. For example, add slicers for outlet type or date range, which will adjust the data displayed across all charts.
-      
-    - Example DAX for filtering by date:
-      
-      ```DAX
-      Sales Last Year = CALCULATE([Total Sales], SAMEPERIODLASTYEAR(Sales[Date]))
-      ```
+    -### What is DAX?
+
+**DAX (Data Analysis Expressions)** is a formula language used in Power BI, Excel, and SQL Server Analysis Services to create calculations, aggregate data, and work with relational data models. It allows users to define custom calculations and manipulate data dynamically, making it essential for building advanced data models and dashboards in Power BI.
+
+### Use of DAX:
+DAX is used to:
+- Create **calculated columns** and **measures** to analyze data dynamically.
+- Aggregate, filter, and perform calculations on data across tables.
+- Enable complex data analysis by performing tasks like summing, averaging, counting, and creating ratios or percentages.
+
+### Explanation of DAX Expressions:
+
+#### 1. **Total Sales:**
+
+```DAX
+Total Sales = SUM(Sales[Amount])
+
 
 10. **Extract and Present Insights**
     - Finalize the dashboard by adjusting formatting, titles, and color schemes.
