@@ -43,7 +43,7 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
 
 
 
-![Screenshot 2024-09-07 034951](https://github.com/user-attachments/assets/71d707d4-99d0-4a9c-91fc-fcf80a9ca412)
+      ![Screenshot 2024-09-07 034951](https://github.com/user-attachments/assets/71d707d4-99d0-4a9c-91fc-fcf80a9ca412)
 
 
 
