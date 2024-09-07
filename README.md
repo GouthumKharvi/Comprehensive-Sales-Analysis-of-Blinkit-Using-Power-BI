@@ -284,6 +284,9 @@ Average Rating = AVERAGE(Reviews[Rating])
 - **Use case:** Useful for assessing overall customer satisfaction. You can display it in a dashboard to provide insights into the quality of customer feedback.
 
 
+![Screenshot 2024-09-07 035918](https://github.com/user-attachments/assets/8c4ebd48-b3ad-496b-840f-37782e209055)
+
+
 
 ## Creating DAX Expressions:
 **To create these DAX formulas in Power BI:**
