@@ -328,7 +328,7 @@ Metrics = {
 
 ![Screenshot 2024-09-07 035918](https://github.com/user-attachments/assets/8c4ebd48-b3ad-496b-840f-37782e209055)
 
---
+
 
 10. **Extract and Present Insights**
     - Finalize the dashboard by adjusting formatting, titles, and color schemes.
@@ -337,7 +337,7 @@ Metrics = {
       
     - Use bookmarks or storytelling features in Power BI to create a guided view of the analysis.
 
---
+
 
 # Conclusion:
 Following these steps ensures a well-organized and insightful sales analysis for Blinkit, with interactive dashboards that make data-driven decision-making easier.
