@@ -308,7 +308,7 @@ In Power BI, **metrics** are key performance indicators (KPIs) that help track a
 
 The following example creates a set of important metrics for analyzing BlinkIT’s Grocery Data, including Total Sales, Average Sales, Number of Items Sold, and Average Rating.
 
----
+
 
 ### Example Metrics in Power BI:
 
@@ -319,7 +319,7 @@ Metrics = {
     ("No of Items", NAMEOF('BlinkIT Grocery Data'[No of Items]), 2),
     ("Avg Rating", NAMEOF('BlinkIT Grocery Data'[Avg Rating]), 3)
 }
-
+```
 
 
 
