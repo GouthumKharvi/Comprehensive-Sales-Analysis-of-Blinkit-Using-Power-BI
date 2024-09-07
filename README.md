@@ -225,7 +225,7 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
       
      ![Screenshot 2024-09-07 040800](https://github.com/user-attachments/assets/7ab0094b-e342-4f20-998e-b53f3d9168b4)
 
-
+--
 9. **Apply DAX Formulas for Data Analysis**
 
      ## What is DAX?
@@ -284,7 +284,8 @@ Average Rating = AVERAGE(Reviews[Rating])
 - **Use case:** Useful for assessing overall customer satisfaction. You can display it in a dashboard to provide insights into the quality of customer feedback.
 
 
-![Screenshot 2024-09-07 035918](https://github.com/user-attachments/assets/8c4ebd48-b3ad-496b-840f-37782e209055)
+![Screenshot 2024-09-07 035430](https://github.com/user-attachments/assets/91ecb817-2eab-4f9d-994a-f52ba8f5dd41)
+
 
 
 
@@ -300,6 +301,7 @@ Average Rating = AVERAGE(Reviews[Rating])
   
 **These DAX expressions help summarize and analyze your data dynamically in Power BI, allowing you to gain key insights from your data model.**
 
+--
 
 # Creating Metrics in Power BI
 
@@ -324,7 +326,9 @@ Metrics = {
 }
 ```
 
+![Screenshot 2024-09-07 035918](https://github.com/user-attachments/assets/8c4ebd48-b3ad-496b-840f-37782e209055)
 
+--
 
 10. **Extract and Present Insights**
     - Finalize the dashboard by adjusting formatting, titles, and color schemes.
@@ -333,7 +337,7 @@ Metrics = {
       
     - Use bookmarks or storytelling features in Power BI to create a guided view of the analysis.
 
-
+--
 
 # Conclusion:
 Following these steps ensures a well-organized and insightful sales analysis for Blinkit, with interactive dashboards that make data-driven decision-making easier.
