@@ -227,7 +227,8 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
 
 
 9. **Apply DAX Formulas for Data Analysis**
-    -### What is DAX?
+
+     ## What is DAX?
 
 **DAX (Data Analysis Expressions)** is a formula language used in Power BI, Excel, and SQL Server Analysis Services to create calculations, aggregate data, and work with relational data models. It allows users to define custom calculations and manipulate data dynamically, making it essential for building advanced data models and dashboards in Power BI.
 
