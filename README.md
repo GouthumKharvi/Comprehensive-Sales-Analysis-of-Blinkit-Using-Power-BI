@@ -58,6 +58,9 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
    - **Recommended Chart Type:**  Bar Chart.
 
 
+      ![Screenshot 2024-09-07 035631](https://github.com/user-attachments/assets/4cd41dca-3520-4abc-94b4-c910dee0fb76)
+
+
 
 
 **3. Outlet Comparison of Fat Content in Relation to Total Sales:**
