@@ -79,7 +79,7 @@ The objective is to thoroughly analyze Blinkit's sales metrics, customer satisfa
  
    - **Recommended Chart Type:** Line Chart.
 
-      ![Screenshot 2024-09-07 035814](https://github.com/user-attachments/assets/21e60129-0ff2-4668-94b3-e954af6f7aab)
+   ![Screenshot 2024-09-07 040247](https://github.com/user-attachments/assets/8f6ea65b-026b-447d-8df2-3098ebc33c5b)
 
 
      
