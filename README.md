@@ -1,5 +1,11 @@
 # BlinkiIt Analaysis 
 
+![Screenshot 2024-09-07 034741](https://github.com/user-attachments/assets/98f275e9-136d-4b59-b82e-c5836f4479db)
+
+
+
+
+
 ### This project is aimed at performing a comprehensive sales analysis of Blinkit, focusing on identifying key insights and opportunities for optimization in sales performance, customer satisfaction, and inventory management. By leveraging Power BI, the project utilizes various KPIs and visualizations to provide a clear understanding of the business dynamics.
 
 ## STPES IN PROJECTS 
