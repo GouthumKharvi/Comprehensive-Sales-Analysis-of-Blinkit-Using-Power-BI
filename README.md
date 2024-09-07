@@ -243,7 +243,7 @@ DAX is used to:
 
 ```DAX
 Total Sales = SUM(Sales[Amount])
-
+```
 
 10. **Extract and Present Insights**
     - Finalize the dashboard by adjusting formatting, titles, and color schemes.
