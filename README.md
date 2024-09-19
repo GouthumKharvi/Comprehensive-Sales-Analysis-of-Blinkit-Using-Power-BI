@@ -1,8 +1,12 @@
 # BlinkiIt Analaysis 
 
-![Screenshot 2024-09-07 034741](https://github.com/user-attachments/assets/98f275e9-136d-4b59-b82e-c5836f4479db)
 
 
+
+
+
+
+https://github.com/user-attachments/assets/1fc2394a-322d-4e2a-b5e2-13ae06287234
 
 
 
